@@ -1,7 +1,7 @@
 {
   "name": "react-api-practice",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -21,5 +21,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "test api practice",
+  "main": "index.js",
+  "repository": "https://github.com/testblank/react-api-practice",
+  "author": "jeseunglee <testblank@naver.com>",
+  "license": "MIT"
 }
